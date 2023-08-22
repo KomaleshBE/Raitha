@@ -1,1 +1,1 @@
-# Raitha
+# Raitha application
